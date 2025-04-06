@@ -119,7 +119,7 @@ for ds in dataSets:
     #print the accuracy of this model during the 10 runs (training and test set).
     #your output should be something like that: final accuracy when training on cheat_training_1.csv: 0.2
     #--> add your Python code here
-    print('final accuracy when training on cheat_training_1.csv: ', averageAccuracy)
+    print('final accuracy when training on cheat_training_1.csv:', averageAccuracy)
 
 
 
